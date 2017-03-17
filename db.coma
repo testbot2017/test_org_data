@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 14897308750.004332	operation	1
 [{":add":{":kind":"roles","longName":"Software Engineer","name":"engineer/E","engineer":true,"optimalCount":4,"group":true,"weight":1}},[209]]
 14897308750.004518	operation	1
@@ -660,3 +661,11 @@
 [{":add":{":kind":"users","name":"manager","firstName":"","lastName":"","email":"","accessRole":"Master","password":"1A8565A9DC72048BA03B4156BE3E569F22771F23"}},[1967]]
 14897309510.162766	operation	1
 [{":add":{":kind":"users","name":"owner","firstName":"","lastName":"","email":"","accessRole":"Owner","password":"579233B2C479241523CBA5E3AF55D0F50F2D6414"}},[1968]]
+=======
+14897307810.05086	operation	1
+[{":add":{":kind":"users","name":"admin","firstName":"","lastName":"","email":"","accessRole":"Member","password":"D033E22AE348AEB5660FC2140AEC35850C4DA997"}},[209]]
+14897307810.052476	operation	1
+[{":add":{":kind":"users","name":"manager","firstName":"","lastName":"","email":"","accessRole":"Master","password":"1A8565A9DC72048BA03B4156BE3E569F22771F23"}},[210]]
+14897307810.053232	operation	1
+[{":add":{":kind":"users","name":"owner","firstName":"","lastName":"","email":"","accessRole":"Owner","password":"579233B2C479241523CBA5E3AF55D0F50F2D6414"}},[211]]
+>>>>>>> 5bec954957a1ea71af44a0aae18dfebae2766b10

@@ -1,6 +1,7 @@
 {
   "users": [
     {
+<<<<<<< HEAD
       "eid": 1968,
       "Fem/Schema/type": "Coma/User",
       "name": "owner",
@@ -13175,4 +13176,60 @@
     }
   ],
   "timestamp": 332
+=======
+      "eid": 209, 
+      "Fem/Schema/type": "Coma/User", 
+      "name": "admin", 
+      "password": "D033E22AE348AEB5660FC2140AEC35850C4DA997", 
+      "firstName": "", 
+      "lastName": "", 
+      "email": "", 
+      "accessRole": "Member"
+    }, 
+    {
+      "eid": 210, 
+      "Fem/Schema/type": "Coma/User", 
+      "name": "manager", 
+      "password": "1A8565A9DC72048BA03B4156BE3E569F22771F23", 
+      "firstName": "", 
+      "lastName": "", 
+      "email": "", 
+      "accessRole": "Master"
+    }, 
+    {
+      "eid": 211, 
+      "Fem/Schema/type": "Coma/User", 
+      "name": "owner", 
+      "password": "579233B2C479241523CBA5E3AF55D0F50F2D6414", 
+      "firstName": "", 
+      "lastName": "", 
+      "email": "", 
+      "accessRole": "Owner"
+    }
+  ], 
+  "entities": [
+    {
+      "eid": 16, 
+      "Fem/Schema/type": "Fem/Field", 
+      "name": "name", 
+      "typeName": "string", 
+      "multiplicity": 1
+    }, 
+    {
+      "eid": 17, 
+      "Fem/Schema/type": "Fem/Field", 
+      "name": "typeName", 
+      "typeName": "string", 
+      "multiplicity": 1
+    }, 
+    {
+      "eid": 18, 
+      "Fem/Schema/type": "Fem/Field", 
+      "name": "options", 
+      "typeName": "string", 
+      "multiplicity": -1
+    }
+  ], 
+  "timestamp": 4
+>>>>>>> 5bec954957a1ea71af44a0aae18dfebae2766b10
 }
