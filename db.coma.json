@@ -8357,6 +8357,38 @@
       "image": "dmitry_grudin.png"
     },
     {
+      "eid": 1969,
+      "Fem/Schema/type": "Coma/Person",
+      "shortName": "danefr",
+      "name": {
+        "eid": 1970,
+        "Fem/Schema/type": "Coma/PersonName",
+        "firstName": "Daniil",
+        "lastName": "Efremov"
+      },
+      "name_rus": {
+        "eid": 1971,
+        "Fem/Schema/type": "Coma/PersonName",
+        "firstName": "",
+        "lastName": ""
+      },
+      "github": "",
+      "linkedin": "",
+      "phone": "111111111110",
+      "uid": "0fb0-9",
+      "active": true,
+      "email": "d.efremov@edanora.com",
+      "role": "212",
+      "birthDate": {
+        "eid": 1972,
+        "Fem/Schema/type": "Coma/Date",
+        "year": "2017",
+        "month": 1,
+        "day": "22"
+      },
+      "avatar": ""
+    },
+    {
       "eid": 1202,
       "Fem/Schema/type": "Coma/Person",
       "shortName": "TIN",
@@ -13174,5 +13206,5 @@
       "multiplicity": -1
     }
   ],
-  "timestamp": 332
+  "timestamp": 333
 }
