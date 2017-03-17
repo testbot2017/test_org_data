@@ -8525,6 +8525,38 @@
       "image": "ruslan_sychov.png"
     },
     {
+      "eid": 1973,
+      "Fem/Schema/type": "Coma/Person",
+      "shortName": "danefr",
+      "name": {
+        "eid": 1974,
+        "Fem/Schema/type": "Coma/PersonName",
+        "firstName": "Daniil",
+        "lastName": "Efremov"
+      },
+      "name_rus": {
+        "eid": 1975,
+        "Fem/Schema/type": "Coma/PersonName",
+        "firstName": "",
+        "lastName": ""
+      },
+      "github": "",
+      "linkedin": "",
+      "phone": "1111111111111111111",
+      "uid": "303b-b",
+      "active": true,
+      "email": "d.efremov@edanora.com",
+      "role": "212",
+      "birthDate": {
+        "eid": 1976,
+        "Fem/Schema/type": "Coma/Date",
+        "year": "1111",
+        "month": 1,
+        "day": "11"
+      },
+      "avatar": ""
+    },
+    {
       "eid": 1209,
       "Fem/Schema/type": "Coma/Person",
       "shortName": "POD",
@@ -13206,5 +13238,5 @@
       "multiplicity": -1
     }
   ],
-  "timestamp": 333
+  "timestamp": 334
 }
