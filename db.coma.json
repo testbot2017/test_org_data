@@ -8606,6 +8606,38 @@
       "image": "olga_polyak.jpg"
     },
     {
+      "eid": 1977,
+      "Fem/Schema/type": "Coma/Person",
+      "shortName": "danefr",
+      "name": {
+        "eid": 1978,
+        "Fem/Schema/type": "Coma/PersonName",
+        "firstName": "Daniil",
+        "lastName": "Efremov"
+      },
+      "name_rus": {
+        "eid": 1979,
+        "Fem/Schema/type": "Coma/PersonName",
+        "firstName": "",
+        "lastName": ""
+      },
+      "github": "",
+      "linkedin": "",
+      "phone": "1111",
+      "uid": "7531-a",
+      "active": true,
+      "email": "d.efremov@edanora.com",
+      "role": "212",
+      "birthDate": {
+        "eid": 1980,
+        "Fem/Schema/type": "Coma/Date",
+        "year": "1111",
+        "month": 1,
+        "day": "11"
+      },
+      "avatar": ""
+    },
+    {
       "eid": 956,
       "Fem/Schema/type": "Coma/Person",
       "shortName": "ET",
@@ -13238,5 +13270,5 @@
       "multiplicity": -1
     }
   ],
-  "timestamp": 334
+  "timestamp": 335
 }
