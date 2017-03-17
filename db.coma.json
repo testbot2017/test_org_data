@@ -8975,6 +8975,38 @@
       "image": "elena_pazukhina.png"
     },
     {
+      "eid": 1981,
+      "Fem/Schema/type": "Coma/Person",
+      "shortName": "basbas",
+      "name": {
+        "eid": 1982,
+        "Fem/Schema/type": "Coma/PersonName",
+        "firstName": "bashmak",
+        "lastName": "bashmak"
+      },
+      "name_rus": {
+        "eid": 1983,
+        "Fem/Schema/type": "Coma/PersonName",
+        "firstName": "",
+        "lastName": ""
+      },
+      "github": "",
+      "linkedin": "",
+      "phone": "11111111111111111",
+      "uid": "5308-9",
+      "active": true,
+      "email": "da@asd.as",
+      "role": "212",
+      "birthDate": {
+        "eid": 1984,
+        "Fem/Schema/type": "Coma/Date",
+        "year": "1999",
+        "month": 1,
+        "day": "11"
+      },
+      "avatar": ""
+    },
+    {
       "eid": 710,
       "Fem/Schema/type": "Coma/Person",
       "shortName": "AM",
@@ -13270,5 +13302,5 @@
       "multiplicity": -1
     }
   ],
-  "timestamp": 335
+  "timestamp": 336
 }
